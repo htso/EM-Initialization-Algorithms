@@ -1,0 +1,15 @@
+Package: InitExp
+Type: Package
+Title: Initialization Alogrithms for HMM and GMM
+Version: 1.0.0
+Date: 2017-02-03
+Author: Horace W Tso <horacetso@gmail.com>
+Maintainer: Horace W Tso <horacetso@gmail.com>
+Description: Collection of initialization algorithms for hidden Markov models; functions to test and plot these algorithms.
+License: MIT
+LazyLoad: yes
+Depends: Hext, mvtnorm, corpcor, ellipse
+Repository: None
+Encoding: latin1
+Packaged: 2017-02-03 08:07:23 UTC; HT
+RoxygenNote: 5.0.1
