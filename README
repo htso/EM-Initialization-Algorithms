@@ -1,1 +1,1 @@
-This R package provides some wrapper functions to experiment with the Expectation Maximization algortihm, which is used to train Hidden Markov model.
+This R package provides some wrapper functions to experiment with the Expectation Maximization algortihm, which is the engine behind the Hidden Markov model.
